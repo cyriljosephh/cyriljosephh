@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm cyril joseph pursuing btech in artificial intelligence and data science . i'm interested in c programming , java , python,html
+I'm Cyril Joseph pursuing Btech in Artificial Intelligence and Data science . I'm interested in C programming , java , python,html....
 
 
 ## 🌐 Socials:
